@@ -1,5 +1,5 @@
 # Ensaymadas Bake Shop Website - T3A2-A Assignment
-Jonas Manalang
+## Jonas Manalang
 
 [Ensaymadas Website](https://jbm-coder.com/)
 
