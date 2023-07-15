@@ -57,13 +57,39 @@ Features:
 - The website will also need a prominent "Checkout" button/page, which will direct the first-time visitor to a simple and streamlined checkout process with few steps for a quick and easy purchase.
 - After making a purchase, the website should display a clear confirmation message with order details and an option to track the order status.
 
-As a returning customer I'd want a personalized user account where I can store my delivery preferences, manage my payment details, track my order history and save my favourite orders.
+As a returning customer, I want a personalised user account where I can store my delivery preferences, manage my payment details, track my order history and save my favourite orders.
 
 Features:
 - The website will allow users to create user accounts with personalised profiles in order to securely save delivery preferences and payment information.
 - Within the user account, the website will have an order history feature, allowing customers to conveniently track and examine previous transactions.
 - Returning customers will be able to save their favourite or often ordered items for faster reordering using the ensaymads user function.
 - Within the user account, customers will be able to manage and update their saved payment details within their user accounts.
+
+As a health-conscious customer, I want to see precise nutritional information for each product so that I can make informed purchasing and dietary decisions.
+
+Features:
+- The website will need to display comprehensive and accurate nutritional information on product pages, which includes key nutritional values such as calories, protein, carbohydrates, fats, and allergen information for each product.
+
+As a Gift Buyer, I want the option to include a personalized message and gift wrapping for selected products to surprise and delight my loved ones on special occasions.
+
+Features:
+- The website will need to implement a gift identification checkbox during the checkout process, allowing the gift buyer to indicate that the purchase is intended as a gift for their loved ones and a text box will be provided within the checkout flow where the gift buyer can enter a personalised message that will be included with the gift delivery.
+- Because the transaction will be a present, the website must incorporate a feature that allows the gift buyer to enter the recipient's shipping address independently from their billing address, providing a smooth and convenient gifting process.
+
+As a busy customer, I want a speedy checkout process with multiple payment choices so that I can save time and rapidly select the things I want so that I can swiftly finish my order.
+- The website needs to be developed that offers a simple and straightforward checkout experience that reduces the number of steps required to complete an order and allows the busy customer to quickly review and confirm their purchases.
+- At checkout, the website will provide numerous payment options, including credit/debit cards, PayPal, and other secure online payment ways, allowing busy individuals to select the most convenient payment method.
+- The website will allow registered customers to securely save their payment details, enabling for one-click payments in future purchases, further expediting the checkout process.
+- Provide an express checkout feature on the website so that busy customers who frequently reorder the same things can swiftly order from their past orders and favourite orders. This feature will allow the customer to make a purchase with less input and provides a faster checkout experience.
+- Ensaymadas' website will also be mobile-responsive, allowing clients who are in a rush to make purchases and finalise orders while on the road with their smartphones or tablets.
+
+
+
+
+
+
+
+
 
 ## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
 
