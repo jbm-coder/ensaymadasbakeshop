@@ -47,7 +47,7 @@ Ensaymadas application architecture follows a client-server model, where the web
 
 ## 4 - User Stories
 As a first-time visitor I want to easily navigate through the website to quickly find and learn about the various kinds of Filipino bread and cakes offered at Ensaymadas. Once I have found what I want, I should be able to make an easy purchase.
-Features:
+- Features:
 - The website must be modern, with simple and intuitive navigation so that first-time visitors can easily explore and find the various types of Filipino bread and cakes available at Ensaymadas.
 - The website should feature a prominent "Sign Up" or "Create Account" button in the header or navigation so that new users can quickly sign up.
 - To make it simple for a new visitor to find and browse various sorts of Filipino bread and cakes, the navigation should have product categories or sections with clear labelling.
@@ -57,7 +57,7 @@ Features:
 - After making a purchase, the website should display a clear confirmation message with order details and an option to track the order status.
 
 As a returning customer I'd want a personalized user account where I can store my delivery preferences, manage my payment details, track my order history and save my favourite orders.
-Features:
+- Features:
 - The website will allow users to create user accounts with personalised profiles in order to securely save delivery preferences and payment information.
 - Within the user account, the website will have an order history feature, allowing customers to conveniently track and examine previous transactions.
 - Returning customers will be able to save their favourite or often ordered items for faster reordering using the ensaymads user function.
