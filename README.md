@@ -1,5 +1,9 @@
-# Ensaymadas
-T3A2 Full Stack App 
+# Ensaymadas Bake Shop Website - T3A2-A Assignment
+[Ensaymadas Website](https://jbm-coder.com/)
+
+[Github Repo](https://https://github.com/jbm-coder/Ensaymadas-Assignment)
+
+[Trello Board](https://trello.com/invite/b/ifqhF8wT/ATTIc0db67468b19970c8c07652be3803cc95AA9308B/ensaymadas)
 Jonas Manalang
 
 ## 1 - Description of your website, including:
