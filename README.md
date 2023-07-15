@@ -29,6 +29,7 @@ Jonas Manalang
     - Heroku (Hosting Platform) - Heroku is a cloud-based platform that makes it simple to deploy and host web applications. Ensaymadas website will be deployed on Heroku, making it accessible to users over the internet. Heroku offers scalability, dependability, and easier hosting infrastructure maintenance.
 
 ## 2 - Dataflow Diagram for Ensaymadas Bake Shop.
+![Dataflow Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Dataflow.png)
 
 ## 3 - Application Architecture Diagram
 
@@ -42,5 +43,8 @@ Starting Trello Board, Project Management and Brainstorming
 ![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello1.PNG)
 
 Breaking down R1 into micro task to better focus and complete the question.
-![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello2.PNG)
+![Trello Board 1.1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello2.PNG)
+
+Working on R2 and progress screenshot of Trello Board
+![Trello Board 2](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Trello3.PNG)
 
