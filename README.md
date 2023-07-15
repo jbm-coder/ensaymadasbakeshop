@@ -35,9 +35,9 @@
 ![Dataflow Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Dataflow.png)
 
 ## 3 - Application Architecture Diagram
-![App Architecture Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/91b05f9aa8a1a496564fecdb587ccaf72f8f0702/images/AppArchitecture.png)
-
 Ensaymadas application architecture follows a client-server model, where the web client communicates with the server through RESTful API calls.The Express back end processes the requests, interacts with the MongoDB database to store and retrieve data, integrates with the Payment Gateway to process secure payments, and makes use of JWT for authentication and authorisation.
+
+![App Architecture Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/91b05f9aa8a1a496564fecdb587ccaf72f8f0702/images/AppArchitecture.png)
 #### In the illustration of the architecture:
 - The Web Browser represents the client-side interface where users interact with the Ensaymadas website.
 - The Web Client manages user interface rendering, user interactions, and sends HTTP requests to the server. It does this by utilising React, HTML, CSS, and JavaScript. Through RESTful API calls, it interfaces with the back end.
