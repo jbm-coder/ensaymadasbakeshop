@@ -28,7 +28,7 @@ Jonas Manalang
     - Express.js - Express.js will manage the server-side logic and serve as a conduit between the database and front end. Express.js will manage routing, take care of HTTP requests and responses, make it easier to get and store data from the MongoDB database. Additionally, Express.js will let the client and server to communicate securely.
     - Heroku (Hosting Platform) - Heroku is a cloud-based platform that makes it simple to deploy and host web applications. Ensaymadas website will be deployed on Heroku, making it accessible to users over the internet. Heroku offers scalability, dependability, and easier hosting infrastructure maintenance.
 
-## 2 - Dataflow Diagram
+## 2 - Dataflow Diagram for Ensaymadas Bake Shop.
 
 ## 3 - Application Architecture Diagram
 
