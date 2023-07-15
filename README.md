@@ -1,8 +1,6 @@
 # Ensaymadas Bake Shop Website - T3A2-A Assignment
 ## Jonas Manalang
 
-[Ensaymadas Website](https://jbm-coder.com/)
-
 [Github Repo](https://github.com/jbm-coder/ensaymadasbakeshop)
 
 [Trello Board](https://trello.com/invite/b/ifqhF8wT/ATTIc0db67468b19970c8c07652be3803cc95AA9308B/ensaymadas)
