@@ -41,6 +41,6 @@ Jonas Manalang
 Starting Trello Board, Project Management and Brainstorming
 ![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello1.PNG)
 
-Sprint 1 - R1
+Breaking down R1 into micro task to better focus and complete the question.
 ![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello2.PNG)
 
