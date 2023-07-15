@@ -3,7 +3,7 @@
 
 [Ensaymadas Website](https://jbm-coder.com/)
 
-[Github Repo](https://https://github.com/jbm-coder/Ensaymadas-Assignment)
+[Github Repo](https://github.com/jbm-coder/ensaymadasbakeshop)
 
 [Trello Board](https://trello.com/invite/b/ifqhF8wT/ATTIc0db67468b19970c8c07652be3803cc95AA9308B/ensaymadas)
 
