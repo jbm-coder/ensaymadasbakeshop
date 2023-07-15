@@ -46,6 +46,22 @@ Ensaymadas application architecture follows a client-server model, where the web
 - The payment gateway is shown as a separate component that communicates directly with the back end. Secure transactions are ensured by the payment gateway, which also handles authorisation and payment processing.Through the Payment API, the back end interfaces with the payment gateway, enabling the necessary data to be transferred between the application and the payment gateway. The back end, implemented using Node.js and Express, interacts with the user database (MongoDB) for data access and performs additional processing as needed. The payment process is started by the web client (front end) by making a request to the back end. The back end, in turn, communicates with the payment gateway, handles the payment-related operations, and sends the response back to the web client.  By maintaining the payment gateway integration on the back end, sensitive payment information is safeguarded and security is preserved.
 
 ## 4 - User Stories
+As a first-time visitor I want to easily navigate through the website to quickly find and learn about the various kinds of Filipino bread and cakes offered at Ensaymadas. Once I have found what I want, I should be able to make an easy purchase.
+Features:
+- The website must be modern, with simple and intuitive navigation so that first-time visitors can easily explore and find the various types of Filipino bread and cakes available at Ensaymadas.
+- The website should feature a prominent "Sign Up" or "Create Account" button in the header or navigation so that new users can quickly sign up.
+- To make it simple for a new visitor to find and browse various sorts of Filipino bread and cakes, the navigation should have product categories or sections with clear labelling.
+- Every product should have a thorough product page with images, descriptions, pricing, and nutritional information, giving the first-time visitor all the information they need to make an informed selection.
+- The website should include an prominent "Add to Cart" button on every product to make purchase simpler. This will make it simple for a new visitor to add items to their cart.
+- The website will also need a prominent "Checkout" button/page, which will direct the first-time visitor to a simple and streamlined checkout process with few steps for a quick and easy purchase.
+- After making a purchase, the website should display a clear confirmation message with order details and an option to track the order status.
+
+As a returning customer I'd want a personalized user account where I can store my delivery preferences, manage my payment details, track my order history and save my favourite orders.
+Features:
+- The website will allow users to create user accounts with personalised profiles in order to securely save delivery preferences and payment information.
+- Within the user account, the website will have an order history feature, allowing customers to conveniently track and examine previous transactions.
+- Returning customers will be able to save their favourite or often ordered items for faster reordering using the ensaymads user function.
+- Within the user account, customers will be able to manage and update their saved payment details within their user accounts.
 
 ## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
 
