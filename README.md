@@ -113,6 +113,7 @@ Features:
 - The website admin page will also include analytical and reporting tools, such as a user activity log and a dashboard that tracks admin actions to maintain transparency and accountability. The dashboard will also offer insights into website performance, user activity, and sales metrics.
 
 ## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
+![Homepage WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/4a7efaf5b13270727f2a3044b632a25c30b6bf18/images/Homepage.png)
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
