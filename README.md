@@ -119,6 +119,7 @@ Features:
 
 ![Checkout WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/99ed7d9fc600f6b30b084867b02c355af9de4bba/images/Checkout.png)
 
+![User Account Dashboard Wireframe](https://github.com/jbm-coder/ensaymadasbakeshop/blob/3652f6c375bc7ada6dbf0c36128273ea021afcd8/images/UserAccountDashboardWireframe.png)
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
