@@ -57,7 +57,7 @@ Features:
 - The website will also need a prominent "Checkout" button/page, which will direct the first-time visitor to a simple and streamlined checkout process with few steps for a quick and easy purchase.
 - After making a purchase, the website should display a clear confirmation message with order details and an option to track the order status.
 
-
+<br>
 As a returning customer, I want a personalised user account where I can store my delivery preferences, manage my payment details, track my order history and save my favourite orders.
 
 Features:
