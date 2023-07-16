@@ -81,6 +81,8 @@ Features:
 
 <br>
 As a busy customer, I want a speedy checkout process with multiple payment choices so that I can save time and rapidly select the things I want so that I can swiftly finish my order.
+
+Features:
 - The website needs to be developed that offers a simple and straightforward checkout experience that reduces the number of steps required to complete an order and allows the busy customer to quickly review and confirm their purchases.
 - At checkout, the website will provide numerous payment options, including credit/debit cards, PayPal, and other secure online payment ways, allowing busy individuals to select the most convenient payment method.
 - The website will allow registered customers to securely save their payment details, enabling for one-click payments in future purchases, further expediting the checkout process.
