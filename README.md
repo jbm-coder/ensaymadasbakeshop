@@ -5,7 +5,7 @@
 
 [Trello Board](https://trello.com/invite/b/ifqhF8wT/ATTIc0db67468b19970c8c07652be3803cc95AA9308B/ensaymadas)
 
-## 1 - Description of your website, including:
+## 1 - Description of my website, including:
 - Purpose - Ensaymadas is a home-based bakery specializing in contemporary versions of traditional Filipino breads and cakes. A feat that has earned them considerable recognition. Fueled by positive word-of-mouth endorsements alone, the business has managed to establish steady growth since its inception a year ago. In an attempt to further solidify its success, Ensaymadas has recently taken the plunge into the world of social media platforms utilizing Facebook, Instagram and TikTok. Ensaymadas revenues have already increased as a result of this new web presence. The establishment of a professional e-commerce website for Ensaymadas is the next crucial step in order to consolidate these efforts and maximize Ensaymadas growth potential. With Ensaymadas new e-commerce website, customers will enjoy browsing through Ensaymadas' delightful offerings, place orders seamlessly and make secure payments. Through enabling enhanced customer convenience and expanding brand visibility, the upcoming e-commerce platform is primed to become a vital catalyst in propelling Ensyamada's forward growth and continued success.
 
 - Functionality / Features - The functionality and features of Ensaymadas new e-commerce website are the following:
@@ -34,7 +34,7 @@
 ## 2 - Dataflow Diagram for Ensaymadas Bake Shop.
 ![Dataflow Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Dataflow.png)
 
-## 3 - Application Architecture Diagram
+## 3 - Application Architecture Diagram.
 Ensaymadas application architecture follows a client-server model, where the web client communicates with the server through RESTful API calls.The Express back end processes the requests, interacts with the MongoDB database to store and retrieve data, integrates with the Payment Gateway to process secure payments, and makes use of JWT for authentication and authorisation.
 
 ![App Architecture Diagram](https://github.com/jbm-coder/ensaymadasbakeshop/blob/91b05f9aa8a1a496564fecdb587ccaf72f8f0702/images/AppArchitecture.png)
@@ -45,7 +45,7 @@ Ensaymadas application architecture follows a client-server model, where the web
 - Data about users, products, and orders is stored in and retrieved using MongoDB, a NoSQL database. It offers the Ensaymadas application dependable and scalable data persistence.
 - The payment gateway is shown as a separate component that communicates directly with the back end. Secure transactions are ensured by the payment gateway, which also handles authorisation and payment processing.Through the Payment API, the back end interfaces with the payment gateway, enabling the necessary data to be transferred between the application and the payment gateway. The back end, implemented using Node.js and Express, interacts with the user database (MongoDB) for data access and performs additional processing as needed. The payment process is started by the web client (front end) by making a request to the back end. The back end, in turn, communicates with the payment gateway, handles the payment-related operations, and sends the response back to the web client.  By maintaining the payment gateway integration on the back end, sensitive payment information is safeguarded and security is preserved.
 
-## 4 - User Stories
+## 4 - User Stories.
 As a first-time visitor I want to easily navigate through the website to quickly find and learn about the various kinds of Filipino bread and cakes offered at Ensaymadas. Once I have found what I want, I should be able to make an easy purchase. <br>
 Features:
 - The website must be modern, with simple and intuitive navigation so that first-time visitors can easily explore and find the various types of Filipino bread and cakes available at Ensaymadas.
@@ -112,7 +112,7 @@ Features:
 - The website admin page will be user-friendly and organised, with easy-to-navigate areas for controlling website content, managing user accounts, product inventories, and order processing.+
 - The website admin page will also include analytical and reporting tools, such as a user activity log and a dashboard that tracks admin actions to maintain transparency and accountability. The dashboard will also offer insights into website performance, user activity, and sales metrics.
 
-## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
+## 5 - Wireframes for multiple standard screen sizes, created using industry standard software.
 ![Homepage WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/4a7efaf5b13270727f2a3044b632a25c30b6bf18/images/Homepage.png)
 
 ![Product WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e4cd43cd75dcf1a5d86157b15125682886297bd6/images/Product.png)
@@ -123,7 +123,7 @@ Features:
 
 ![Admin Dashboard Wireframe](https://github.com/jbm-coder/ensaymadasbakeshop/blob/28e17a40cb003c453f2f4f15d4346b8eda5fc804/images/Admin%20Dashboard%20Wireframe.png)
 
-## 6 - 	Screenshots of your Trello board throughout the duration of the project
+## 6 - 	Screenshots of Trello board throughout the duration of the project.
 
 Starting Trello Board, Project Management and Brainstorming.
 ![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello1.PNG)
