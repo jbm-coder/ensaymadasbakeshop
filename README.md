@@ -115,6 +115,8 @@ Features:
 ## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
 ![Homepage WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/4a7efaf5b13270727f2a3044b632a25c30b6bf18/images/Homepage.png)
 
+![Product WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e4cd43cd75dcf1a5d86157b15125682886297bd6/images/Product.png)
+
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
 Starting Trello Board, Project Management and Brainstorming.
