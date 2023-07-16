@@ -95,16 +95,36 @@ Features:
 - Create an engaging and informative "About Us" page for the Ensaymadas website, detailing the history of Ensaymadas, including its roots, travels, and landmarks.
 - The website will need to combine enticing visuals and multimedia components to complement the textual content to further enhance the immersive experience for curious foodies.
 
+<br>
+As a mobile user, I want to access a mobile-responsive website so that I can easily browse and place orders on my smartphone or tablet.
+
+Features:
+- Create a responsive web design that automatically adjusts the website layout and content to match different screen sizes, ensuring a seamless browsing experience across several mobile devices.
+- The website must be optimised to provide smooth loading in order to reduce wait times for mobile visitors and deliver a smooth and efficient browsing experience.
+- The website design must be mobile-friendly. To improve user accessibility and simplicity of navigating on smaller displays, utilise mobile-friendly navigation elements such as hamburger menus or sticky headers.
+- The website design must include a mobile-friendly checkout procedure that reduces the number of form fields and processes required to complete a purchase, as well as a secure and mobile-responsive payment gateway to enable seamless and safe payment processing for mobile users.
+
+<br>
+As a website admin, I want to access an intuitive admin dashboard to efficiently manage the website's content, users, products, and orders.
+
+Features:
+- The website will include a secure and user-friendly admin login page to ensure that only authorized personnel can access the admin dashboard.
+- The website admin page will be user-friendly and organised, with easy-to-navigate areas for controlling website content, managing user accounts, product inventories, and order processing.+
+- The website admin page will also include analytical and reporting tools, such as a user activity log and a dashboard that tracks admin actions to maintain transparency and accountability. The dashboard will also offer insights into website performance, user activity, and sales metrics.
+
 ## 5 - Wireframes for multiple standard screen sizes, created using industry standard software
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
-Starting Trello Board, Project Management and Brainstorming
+Starting Trello Board, Project Management and Brainstorming.
 ![Trello Board 1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello1.PNG)
 
 Breaking down R1 into micro task to better focus and complete the question.
 ![Trello Board 1.1](https://github.com/jbm-coder/Ensaymadas-Assignment/blob/553cf1fbf13422022f89741b6f613fc11eb83914/Images/Trello2.PNG)
 
-Working on R2 and progress screenshot of Trello Board
+Working on R2 and progress screenshot of Trello Board.
 ![Trello Board 2](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Trello3.PNG)
+
+Documenting user stories for R4 and using agile methodology
+![Trello Board 3](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Trello3.PNG)
 
