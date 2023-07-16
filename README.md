@@ -126,5 +126,5 @@ Working on R2 and progress screenshot of Trello Board.
 ![Trello Board 2](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Trello3.PNG)
 
 Documenting user stories for R4 and using agile methodology
-![Trello Board 3](https://github.com/jbm-coder/ensaymadasbakeshop/blob/7bebec9bb2b2071cabeb60f8c1d79753797fba4d/images/Trello3.PNG)
+![Trello Board 3](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e06b9798122bc8e67047eed1b1810baf35f4bfeb/images/Trello4.PNG)
 
