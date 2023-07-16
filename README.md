@@ -117,6 +117,9 @@ Features:
 
 ![Product WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e4cd43cd75dcf1a5d86157b15125682886297bd6/images/Product.png)
 
+![Checkout WireFrame](https://github.com/jbm-coder/ensaymadasbakeshop/blob/99ed7d9fc600f6b30b084867b02c355af9de4bba/images/Checkout.png)
+
+
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
 Starting Trello Board, Project Management and Brainstorming.
