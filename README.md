@@ -121,7 +121,7 @@ Features:
 
 ![User Account Dashboard Wireframe](https://github.com/jbm-coder/ensaymadasbakeshop/blob/3652f6c375bc7ada6dbf0c36128273ea021afcd8/images/UserAccountDashboardWireframe.png)
 
-![Admin Dashboard Wireframe]()
+![Admin Dashboard Wireframe](https://github.com/jbm-coder/ensaymadasbakeshop/blob/28e17a40cb003c453f2f4f15d4346b8eda5fc804/images/Admin%20Dashboard%20Wireframe.png)
 
 ## 6 - 	Screenshots of your Trello board throughout the duration of the project
 
@@ -138,5 +138,5 @@ Documenting user stories for R4 and using agile methodology
 ![Trello Board 3](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e06b9798122bc8e67047eed1b1810baf35f4bfeb/images/Trello4.PNG)
 
 Completed the wireframe and succesfully finished my Kanban board to complete my assignment.
-![Trello Board 4]()
+![Trello Board 4](https://github.com/jbm-coder/ensaymadasbakeshop/blob/28e17a40cb003c453f2f4f15d4346b8eda5fc804/images/Trello5.PNG)
 
