@@ -137,3 +137,6 @@ Working on R2 and progress screenshot of Trello Board.
 Documenting user stories for R4 and using agile methodology
 ![Trello Board 3](https://github.com/jbm-coder/ensaymadasbakeshop/blob/e06b9798122bc8e67047eed1b1810baf35f4bfeb/images/Trello4.PNG)
 
+Completed the wireframe and succesfully finished my Kanban board to complete my assignment.
+![Trello Board 4]()
+
